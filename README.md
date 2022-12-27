@@ -1,4 +1,4 @@
-# DjangoPostgresDocker
+# django-postgres-docker
 
 ## Run
 
